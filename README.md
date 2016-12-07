@@ -1,5 +1,6 @@
 # Project: Movie Trailer Website
 ## About
+
 # License
 The MIT License (MIT)
 
