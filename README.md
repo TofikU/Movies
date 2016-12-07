@@ -1,6 +1,6 @@
 #Movie Trailer Website
 ## About
-This is a Movie Trailer Website where user can watch a trailer of my favorite movie.
+This is a **Movie Trailer Website** where user can watch a trailers of my favorite movies.
 
 ## How to Run
 To run this application you need to follow one of these options:
