@@ -8,7 +8,7 @@ To run this application you may:
 
 __Prerequisites for step two - Python IDLE should be installed__
 
-2. Open folder (**Movies**), right click on file **entertainment_center** - click on "**Edit with IDLE**" - Run module.
+2. Open folder (**Movies**), right click on file **entertainment_center.html** - click on "**Edit with IDLE**" - Run module.
 
 ## License
 The MIT License (MIT)
