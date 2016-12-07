@@ -2,13 +2,13 @@
 ## About
 
 ## How to Run
-To run this application you may:
+To run this application you may follow the steps of these two options:
 
-1. Double click on **fresh_tomatoes.html** file included in **Movies** folder.
+- Double click on **fresh_tomatoes.html** file included in **Movies** folder.
 
-__Prerequisites for step two - Python IDLE should be installed__
+__Prerequisites for option two - Python IDLE should be installed__
 
-2. Open folder (**Movies**), right click on file **entertainment_center.html** - click on "**Edit with IDLE**" - Run module.
+- Open folder (**Movies**), right click on file **entertainment_center.html** - click on "**Edit with IDLE**" - Run module.
 
 ## License
 The MIT License (MIT)
