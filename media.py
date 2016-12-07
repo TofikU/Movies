@@ -1,3 +1,6 @@
+"""A module which provides a class for retrieving, storing and representing 
+information about movies"""
+
 import webbrowser
 
 class Movie():
