@@ -1,5 +1,3 @@
-"""Script for running the movies website"""
-
 import fresh_tomatoes
 import media
 
