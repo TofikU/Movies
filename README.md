@@ -2,7 +2,7 @@
 ## About
 
 ## How to Run
-To run this application you need to follow one of these steps:
+To run this application you need to follow one of these options:
 
 - Double click on **fresh_tomatoes.html** file included in **Movies** folder.
 
