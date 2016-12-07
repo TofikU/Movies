@@ -1,7 +1,3 @@
-"""Script for running the movies website. This script creates the Movie 
-objects, passes them to the rendering function, and starts the server to
-serve the resulting html."""
-
 import fresh_tomatoes
 import media
 
