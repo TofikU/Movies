@@ -1,6 +1,6 @@
 #Movie Trailer Website
 ## About
-**Movie Trailer Website is a project which is a part of Udacity "Full Stack Web Developer Nanodegree"**
+**Movie Trailer Website Project is a part of Udacity "Full Stack Web Developer Nanodegree"**
 
 This is a **Movie Trailer Website** where user can watch trailers of my favorite movies.
 
