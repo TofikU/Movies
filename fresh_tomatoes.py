@@ -140,16 +140,12 @@ def create_movie_tiles_content(movies):
         content += movie_tile_content.format(
             movie_title=movie.title,
             poster_image_url=movie.poster_image_url,
-            trailer_youtube_id=trailer_youtube_id
+            trailer_youtube_id=trailer_youtube_id,
+            storyline=movie.storyline
         )
     return content
 
 def open_movies_page(movies):
-  content += movie_tile_content.format(
-    movie_title=movie.title,
-    poster_image_url=movie.poster_image_url,
-    trailer_youtube_id=trailer_youtube_id,
-    storyline=movie.storyline # add a storyline
 )
   output_file = open('fresh_tomatoes.html', 'w')
 
