@@ -33,6 +33,7 @@ in_time = media.Movie("In Time",
 
 movies = [catch_me_if_you_can, the_great_gatsby,
           limitless, angel_a, end_of_watch, in_time]
+
 # Uses list of movie instances as input to generate an HTML file
 # and open it in the browser.
 fresh_tomatoes.open_movies_page(movies)
