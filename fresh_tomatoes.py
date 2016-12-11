@@ -6,6 +6,7 @@ import re
 main_page_head = '''
 <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Fresh Tomatoes!</title>
 
     <!-- Bootstrap 3 -->
@@ -17,10 +18,13 @@ main_page_head = '''
         body {
             padding-top: 80px;
         }
+        img, embed,
+        object, video {
+            max-width: 100%
+        }
         #trailer .modal-dialog {
             margin-top: 200px;
-            width: 640px;
-            height: 480px;
+            max-width: 100%
         }
         .hanging-close {
             position: absolute;
