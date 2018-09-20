@@ -17,4 +17,4 @@ To run this application you need to follow one of these options:
 ## License
 The MIT License (MIT)
 
-Copyright (c) 2016 Tofik Umukhanov
+Copyright (c) 2016
